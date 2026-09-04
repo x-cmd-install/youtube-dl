@@ -7,13 +7,13 @@ about:
   head: 956b8c5
   archived: false
   latestVersion: 2021.12.17
-  collectedAt: 2026-09-04T19:33:20Z
+  collectedAt: 2026-09-04T20:57:08Z
 timeline:
   created: 2010-10-31
   lastCommit: 2025-11-26
   lastRelease: 2021-12-16
 popularity:
-  star: 141108
+  star: 141112
   watcher: 2148
   fork: 10669
   release: 341
@@ -84,6 +84,79 @@ total:
   openIssue: 3627
   commit: 18977
 ---
+path: /home/runner/.x-repo/github.com/ytdl-org/youtube-dl
+collectedAt: 2026-09-04T20:57:13Z
+loc:
+  Python:
+    code: 145320
+    comments: 5198
+    blanks: 18155
+    files: 902
+  Makefile:
+    code: 246
+    comments: 10
+    blanks: 56
+    files: 2
+  ActionScript:
+    code: 198
+    comments: 34
+    blanks: 33
+    files: 17
+  Sh:
+    code: 156
+    comments: 23
+    blanks: 46
+    files: 4
+  Json:
+    code: 76
+    comments: 0
+    blanks: 0
+    files: 2
+  Autoconf:
+    code: 62
+    comments: 1
+    blanks: 8
+    files: 4
+  ReStructuredText:
+    code: 61
+    comments: 0
+    blanks: 29
+    files: 2
+  Batch:
+    code: 14
+    comments: 0
+    blanks: 3
+    files: 1
+  Ini:
+    code: 12
+    comments: 2
+    blanks: 0
+    files: 1
+  ForgeConfig:
+    code: 5
+    comments: 0
+    blanks: 1
+    files: 1
+  Zsh:
+    code: 1
+    comments: 18
+    blanks: 5
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2406
+    blanks: 514
+    files: 3
+  Text:
+    code: 0
+    comments: 17
+    blanks: 4
+    files: 3
+total:
+  code: 146398
+  comments: 7746
+  blanks: 18890
+  files: 943
 ---
 date: "2026-08-24"
 repo:
