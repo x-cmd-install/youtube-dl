@@ -48,11 +48,11 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 141,178 · **Forks**: 10,664 · **Open issues**: 26,833 · **Contributors**: 795
+- **Stars**: 141,179 · **Forks**: 10,664 · **Open issues**: 26,832 · **Contributors**: 795
 
 ## Totals (cumulative)
 
-- **Releases**: 341 · **Merged PRs**: 1646 · **Open PRs**: 499 · **Closed issues**: 23207 · **Open issues**: 3626 · **Commits**: 18977
+- **Releases**: 341 · **Merged PRs**: 1646 · **Open PRs**: 499 · **Closed issues**: 23206 · **Open issues**: 3626 · **Commits**: 18977
 
 ## Recent activity
 
@@ -98,4 +98,4 @@ Install metadata for youtube-dl lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:23:16Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:29:56Z._

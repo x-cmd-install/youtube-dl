@@ -12,7 +12,7 @@ Command-line program to download videos from YouTube.com and other video sites
 x install youtube-dl
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **146,151** 行代码（覆盖前 5 种语言、共 **927** 个文件）。
 
@@ -48,11 +48,11 @@ x install youtube-dl
 
 ## 流行度
 
-- **Star**: 141,178 · **Fork**: 10,664 · **开放 issue**: 26,833 · **贡献者**: 795
+- **Star**: 141,179 · **Fork**: 10,664 · **开放 issue**: 26,832 · **贡献者**: 795
 
 ## 累计统计
 
-- **发布数**: 341 · **已合并 PR**: 1646 · **开放 PR**: 499 · **已关闭 issue**: 23207 · **开放 issue**: 3626 · **提交数**: 18977
+- **发布数**: 341 · **已合并 PR**: 1646 · **开放 PR**: 499 · **已关闭 issue**: 23206 · **开放 issue**: 3626 · **提交数**: 18977
 
 ## 最近活动
 
@@ -98,4 +98,4 @@ youtube-dl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T20:23:16Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:29:56Z._
