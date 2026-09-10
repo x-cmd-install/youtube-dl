@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 157,
       "digest": null,
-      "download_count": 14571,
+      "download_count": 14572,
       "created_at": "2021-12-16T19:01:14Z",
       "updated_at": "2021-12-16T19:01:15Z",
       "browser_download_url": "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/MD5SUMS"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 181,
       "digest": null,
-      "download_count": 8784,
+      "download_count": 8786,
       "created_at": "2021-12-16T19:01:19Z",
       "updated_at": "2021-12-16T19:01:20Z",
       "browser_download_url": "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/SHA1SUMS"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 253,
       "digest": null,
-      "download_count": 28943,
+      "download_count": 28944,
       "created_at": "2021-12-16T19:01:16Z",
       "updated_at": "2021-12-16T19:01:17Z",
       "browser_download_url": "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/SHA2-256SUMS"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 445,
       "digest": null,
-      "download_count": 47913,
+      "download_count": 47917,
       "created_at": "2021-12-16T19:01:13Z",
       "updated_at": "2021-12-16T19:01:13Z",
       "browser_download_url": "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/SHA2-512SUMS"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1837828,
       "digest": null,
-      "download_count": 9552019,
+      "download_count": 9552179,
       "created_at": "2021-12-16T19:01:10Z",
       "updated_at": "2021-12-16T19:01:11Z",
       "browser_download_url": "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3332299,
       "digest": null,
-      "download_count": 448796,
+      "download_count": 448819,
       "created_at": "2021-12-16T19:01:09Z",
       "updated_at": "2021-12-16T19:01:10Z",
       "browser_download_url": "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl-2021.12.17.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": null,
-      "download_count": 163160,
+      "download_count": 163180,
       "created_at": "2021-12-16T19:01:14Z",
       "updated_at": "2021-12-16T19:01:14Z",
       "browser_download_url": "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl-2021.12.17.tar.gz.sig"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 8170320,
       "digest": null,
-      "download_count": 6586085,
+      "download_count": 6586152,
       "created_at": "2021-12-16T19:01:17Z",
       "updated_at": "2021-12-16T19:01:19Z",
       "browser_download_url": "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": null,
-      "download_count": 37376,
+      "download_count": 37377,
       "created_at": "2021-12-16T19:01:15Z",
       "updated_at": "2021-12-16T19:01:16Z",
       "browser_download_url": "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.exe.sig"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": null,
-      "download_count": 36855,
+      "download_count": 36856,
       "created_at": "2021-12-16T19:01:12Z",
       "updated_at": "2021-12-16T19:01:12Z",
       "browser_download_url": "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.sig"
