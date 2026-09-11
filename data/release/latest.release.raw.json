@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 445,
       "digest": null,
-      "download_count": 47924,
+      "download_count": 47928,
       "created_at": "2021-12-16T19:01:13Z",
       "updated_at": "2021-12-16T19:01:13Z",
       "browser_download_url": "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/SHA2-512SUMS"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1837828,
       "digest": null,
-      "download_count": 9552376,
+      "download_count": 9552501,
       "created_at": "2021-12-16T19:01:10Z",
       "updated_at": "2021-12-16T19:01:11Z",
       "browser_download_url": "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3332299,
       "digest": null,
-      "download_count": 448880,
+      "download_count": 448912,
       "created_at": "2021-12-16T19:01:09Z",
       "updated_at": "2021-12-16T19:01:10Z",
       "browser_download_url": "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl-2021.12.17.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": null,
-      "download_count": 163232,
+      "download_count": 163262,
       "created_at": "2021-12-16T19:01:14Z",
       "updated_at": "2021-12-16T19:01:14Z",
       "browser_download_url": "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl-2021.12.17.tar.gz.sig"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 8170320,
       "digest": null,
-      "download_count": 6586372,
+      "download_count": 6586506,
       "created_at": "2021-12-16T19:01:17Z",
       "updated_at": "2021-12-16T19:01:19Z",
       "browser_download_url": "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 566,
       "digest": null,
-      "download_count": 37383,
+      "download_count": 37384,
       "created_at": "2021-12-16T19:01:15Z",
       "updated_at": "2021-12-16T19:01:16Z",
       "browser_download_url": "https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.exe.sig"

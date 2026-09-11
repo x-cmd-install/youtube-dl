@@ -7,7 +7,7 @@ about:
   latestVersion: "2021.12.17"
   latestRelease: "2021.12.17"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:56:34Z
+  collectedAt: 2026-09-11T19:02:02Z
 timeline:
   created: 2010-10-31
   lastCommit: 2025-11-26
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2021-12-16
   lastPrerelease: 
 popularity:
-  star: 141181
+  star: 141186
   watcher: 2147
   fork: 10664
   release: 341
@@ -87,7 +87,7 @@ total:
   commit: 18977
 ---
 path: /home/runner/.x-repo/github.com/ytdl-org/youtube-dl
-collectedAt: 2026-09-11T05:56:45Z
+collectedAt: 2026-09-11T19:02:22Z
 loc:
   Python:
     code: 145320
