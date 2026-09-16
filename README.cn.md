@@ -30,8 +30,8 @@ x install youtube-dl
 
 评分最低的几项:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (3/10) — Found 1/3 approved changesets -- score normalized to 3
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## 源代码
@@ -48,7 +48,7 @@ x install youtube-dl
 
 ## 流行度
 
-- **Star**: 141,232 · **Fork**: 10,660 · **开放 issue**: 26,832 · **贡献者**: 795
+- **Star**: 141,246 · **Fork**: 10,658 · **开放 issue**: 26,832 · **贡献者**: 795
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install youtube-dl
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 0 | 2 | 1 | 0 |
-| last60d | 2026-07-17 | 0 | 0 | 1 | 2 | 1 | 0 |
-| 90d | 2026-06-17 | 0 | 0 | 5 | 3 | 2 | 0 |
-| last180d | 2026-03-19 | 0 | 0 | 12 | 8 | 6 | 0 |
-| 360d | 2025-09-20 | 0 | 4 | 17 | 48 | 14 | 43 |
-| last720d | 2024-09-25 | 0 | 10 | 37 | 216 | 37 | 116 |
+| 30d | 2026-08-17 | 0 | 0 | 0 | 2 | 1 | 0 |
+| last60d | 2026-07-18 | 0 | 0 | 1 | 2 | 1 | 0 |
+| 90d | 2026-06-18 | 0 | 0 | 4 | 3 | 2 | 0 |
+| last180d | 2026-03-20 | 0 | 0 | 12 | 8 | 6 | 0 |
+| 360d | 2025-09-21 | 0 | 4 | 17 | 48 | 14 | 43 |
+| last720d | 2024-09-26 | 0 | 10 | 36 | 216 | 37 | 116 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ youtube-dl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260915.yml` · 2026-09-15T06:25:58Z._
+_数据快照: `data/card/260916.yml` · 2026-09-16T06:34:40Z._
