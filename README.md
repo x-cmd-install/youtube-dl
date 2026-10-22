@@ -30,8 +30,8 @@ Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (3/10) — Found 1/3 approved changesets -- score normalized to 3
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 141,363 · **Forks**: 10,661 · **Open issues**: 26,836 · **Contributors**: 795
+- **Stars**: 141,368 · **Forks**: 10,663 · **Open issues**: 26,837 · **Contributors**: 795
 
 ## Totals (cumulative)
 
-- **Releases**: 341 · **Merged PRs**: 1646 · **Open PRs**: 500 · **Closed issues**: 23213 · **Open issues**: 3623 · **Commits**: 18977
+- **Releases**: 341 · **Merged PRs**: 1646 · **Open PRs**: 500 · **Closed issues**: 23213 · **Open issues**: 3624 · **Commits**: 18977
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 3 | 2 | 0 |
-| last60d | 2026-08-22 | 0 | 0 | 1 | 4 | 2 | 0 |
-| 90d | 2026-07-23 | 0 | 0 | 2 | 5 | 3 | 0 |
-| last180d | 2026-04-24 | 0 | 0 | 8 | 9 | 7 | 0 |
-| 360d | 2025-10-26 | 0 | 2 | 18 | 41 | 14 | 26 |
-| last720d | 2024-10-31 | 0 | 9 | 33 | 200 | 35 | 116 |
+| 30d | 2026-09-22 | 0 | 0 | 0 | 3 | 3 | 0 |
+| last60d | 2026-08-23 | 0 | 0 | 1 | 4 | 3 | 0 |
+| 90d | 2026-07-24 | 0 | 0 | 2 | 5 | 4 | 0 |
+| last180d | 2026-04-25 | 0 | 0 | 8 | 9 | 8 | 0 |
+| 360d | 2025-10-27 | 0 | 2 | 18 | 39 | 15 | 26 |
+| last720d | 2024-11-01 | 0 | 9 | 33 | 199 | 36 | 116 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for youtube-dl lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:51:13Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:54:02Z._
