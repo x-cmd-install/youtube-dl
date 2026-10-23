@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 141,368 · **Forks**: 10,663 · **Open issues**: 26,837 · **Contributors**: 795
+- **Stars**: 141,375 · **Forks**: 10,659 · **Open issues**: 26,837 · **Contributors**: 795
 
 ## Totals (cumulative)
 
-- **Releases**: 341 · **Merged PRs**: 1646 · **Open PRs**: 500 · **Closed issues**: 23213 · **Open issues**: 3624 · **Commits**: 18977
+- **Releases**: 341 · **Merged PRs**: 1646 · **Open PRs**: 500 · **Closed issues**: 23214 · **Open issues**: 3623 · **Commits**: 18977
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 3 | 3 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 1 | 4 | 3 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 2 | 5 | 4 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 8 | 9 | 8 | 0 |
-| 360d | 2025-10-27 | 0 | 2 | 18 | 39 | 15 | 26 |
-| last720d | 2024-11-01 | 0 | 9 | 33 | 199 | 36 | 116 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 4 | 2 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 1 | 5 | 2 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 2 | 6 | 3 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 8 | 10 | 7 | 0 |
+| 360d | 2025-10-28 | 0 | 2 | 18 | 38 | 14 | 26 |
+| last720d | 2024-11-02 | 0 | 9 | 33 | 200 | 35 | 116 |
 
 ## Release assets
 
@@ -80,6 +80,15 @@ Lowest-scoring checks:
 | [youtube-dl.exe.sig](https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.exe.sig) | 566 B | `other` |
 | [youtube-dl.sig](https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.sig) | 566 B | `other` |
 
+## Distribution status
+
+Reported by **119** distros on [repology.org](https://repology.org/project/youtube-dl). **69** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Fedora rawhide | `2025.05.04.gita084c80` | ignored |
+| Nix unstable | `2021.12.17` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for youtube-dl lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `youtube-dl` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +98,4 @@ Install metadata for youtube-dl lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:54:02Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:52:35Z._
