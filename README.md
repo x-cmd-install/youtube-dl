@@ -30,9 +30,9 @@ Overall score: **4.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (3/10) — Found 1/3 approved changesets -- score normalized to 3
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (3/10) — Found 1/3 approved changesets -- score normalized to 3
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 141,403 · **Forks**: 10,665 · **Open issues**: 26,836 · **Contributors**: 794
+- **Stars**: 141,411 · **Forks**: 10,665 · **Open issues**: 26,836 · **Contributors**: 794
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 0 | 1 | 2 | 2 | 0 |
-| last60d | 2026-08-28 | 0 | 0 | 2 | 5 | 2 | 0 |
-| 90d | 2026-07-29 | 0 | 0 | 3 | 6 | 3 | 0 |
-| last180d | 2026-04-30 | 0 | 0 | 9 | 10 | 7 | 0 |
-| 360d | 2025-11-01 | 0 | 2 | 19 | 37 | 14 | 4 |
-| last720d | 2024-11-06 | 0 | 9 | 34 | 198 | 35 | 116 |
+| 30d | 2026-09-28 | 0 | 0 | 1 | 2 | 2 | 0 |
+| last60d | 2026-08-29 | 0 | 0 | 2 | 5 | 2 | 0 |
+| 90d | 2026-07-30 | 0 | 0 | 3 | 6 | 3 | 0 |
+| last180d | 2026-05-01 | 0 | 0 | 9 | 10 | 7 | 0 |
+| 360d | 2025-11-02 | 0 | 2 | 19 | 37 | 14 | 4 |
+| last720d | 2024-11-07 | 0 | 9 | 34 | 198 | 35 | 116 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for youtube-dl lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T06:08:20Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:50:20Z._
