@@ -14,11 +14,11 @@ x install youtube-dl
 
 ## Code insight
 
-Total: **146,151** lines of code across **927** files in the top 5 languages.
+Total: **146,249** lines of code across **928** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 145,320 | 5,198 | 18,155 | 902 |
+| Python | 145,418 | 5,200 | 18,174 | 903 |
 | Makefile | 246 | 10 | 56 | 2 |
 | ActionScript | 198 | 34 | 33 | 17 |
 | Sh | 156 | 23 | 46 | 4 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2021.12.17` (2021-12-16)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-11-03
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 141,448 · **Forks**: 10,682 · **Open issues**: 26,836 · **Contributors**: 794
+- **Stars**: 141,448 · **Forks**: 10,677 · **Open issues**: 26,836 · **Contributors**: 796
 
 ## Totals (cumulative)
 
-- **Releases**: 341 · **Merged PRs**: 1647 · **Open PRs**: 500 · **Closed issues**: 23215 · **Open issues**: 3621 · **Commits**: 18978
+- **Releases**: 341 · **Merged PRs**: 1649 · **Open PRs**: 497 · **Closed issues**: 23216 · **Open issues**: 3620 · **Commits**: 18980
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 1 | 1 | 3 | 1 | 1 |
-| last60d | 2026-09-04 | 0 | 1 | 2 | 5 | 2 | 1 |
-| 90d | 2026-08-05 | 0 | 1 | 2 | 7 | 3 | 1 |
-| last180d | 2026-05-07 | 0 | 1 | 9 | 11 | 7 | 1 |
-| 360d | 2025-11-08 | 0 | 2 | 19 | 38 | 14 | 5 |
-| last720d | 2024-11-13 | 0 | 10 | 34 | 194 | 35 | 117 |
+| 30d | 2026-10-05 | 0 | 2 | 0 | 3 | 1 | 3 |
+| last60d | 2026-09-05 | 0 | 2 | 1 | 5 | 2 | 3 |
+| 90d | 2026-08-06 | 0 | 2 | 1 | 7 | 3 | 3 |
+| last180d | 2026-05-08 | 0 | 3 | 7 | 11 | 7 | 3 |
+| 360d | 2025-11-09 | 0 | 4 | 16 | 39 | 13 | 7 |
+| last720d | 2024-11-14 | 0 | 12 | 31 | 195 | 34 | 119 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for youtube-dl lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:01:16Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:36:27Z._
