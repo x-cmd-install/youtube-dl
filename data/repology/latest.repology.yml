@@ -1,3 +1,15 @@
+- repo: nix_stable_24_05
+  srcname: youtube-dl
+  visiblename: youtube-dl
+  version: 2021.12.17
+  origversion: null
+  status: newest
+  summary: Command-line tool to download videos from YouTube.com and other sites
+  maintainers:
+    - mathijs@bluescreen303.nl
+    - fpletz@fnordicwalking.de
+  licenses:
+    - Public Domain
 - repo: adelie_current
   subrepo: user
   srcname: youtube-dl
@@ -486,6 +498,20 @@
     - Unlicense
   categories:
     - Unspecified
+- repo: nix_stable_24_05
+  srcname: python311Packages.youtube-dl-light
+  visiblename: python3.11-youtube-dl
+  version: 2021.12.17
+  origversion: null
+  status: newest
+  summary: Command-line tool to download videos from YouTube.com and other sites
+  maintainers:
+    - mathijs@bluescreen303.nl
+    - fpletz@fnordicwalking.de
+  licenses:
+    - Public Domain
+  categories:
+    - python311Packages
 - repo: fedora_43
   subrepo: release
   srcname: youtube-dl
@@ -514,18 +540,6 @@
     - Unlicense
   categories:
     - Unspecified
-- repo: nix_stable_24_05
-  srcname: youtube-dl-light
-  visiblename: youtube-dl
-  version: 2021.12.17
-  origversion: null
-  status: newest
-  summary: Command-line tool to download videos from YouTube.com and other sites
-  maintainers:
-    - mathijs@bluescreen303.nl
-    - fpletz@fnordicwalking.de
-  licenses:
-    - Public Domain
 - repo: fedora_rawhide
   subrepo: development
   srcname: youtube-dl
@@ -659,21 +673,7 @@
   categories:
     - python311Packages
 - repo: nix_stable_24_05
-  srcname: python311Packages.youtube-dl-light
-  visiblename: python3.11-youtube-dl
-  version: 2021.12.17
-  origversion: null
-  status: newest
-  summary: Command-line tool to download videos from YouTube.com and other sites
-  maintainers:
-    - mathijs@bluescreen303.nl
-    - fpletz@fnordicwalking.de
-  licenses:
-    - Public Domain
-  categories:
-    - python311Packages
-- repo: nix_stable_24_05
-  srcname: youtube-dl
+  srcname: youtube-dl-light
   visiblename: youtube-dl
   version: 2021.12.17
   origversion: null
@@ -1015,32 +1015,6 @@
   categories:
     - python314Packages
 - repo: nix_unstable
-  srcname: python314Packages.youtube-dl
-  visiblename: youtube-dl
-  version: 2021.12.17
-  origversion: null
-  status: newest
-  summary: Command-line tool to download videos from YouTube.com and other sites
-  maintainers:
-    - fpletz@fnordicwalking.de
-  licenses:
-    - Unlicense
-  categories:
-    - python314Packages
-- repo: nix_unstable
-  srcname: python314Packages.youtube-dl-light
-  visiblename: youtube-dl
-  version: 2021.12.17
-  origversion: null
-  status: newest
-  summary: Command-line tool to download videos from YouTube.com and other sites
-  maintainers:
-    - fpletz@fnordicwalking.de
-  licenses:
-    - Unlicense
-  categories:
-    - python314Packages
-- repo: nix_unstable
   srcname: youtube-dl
   visiblename: youtube-dl
   version: 2021.12.17
@@ -1088,6 +1062,32 @@
     - Unlicense
   categories:
     - python313Packages
+- repo: nix_unstable
+  srcname: python314Packages.youtube-dl
+  visiblename: youtube-dl
+  version: 2021.12.17
+  origversion: null
+  status: newest
+  summary: Command-line tool to download videos from YouTube.com and other sites
+  maintainers:
+    - fpletz@fnordicwalking.de
+  licenses:
+    - Unlicense
+  categories:
+    - python314Packages
+- repo: nix_unstable
+  srcname: python314Packages.youtube-dl-light
+  visiblename: youtube-dl
+  version: 2021.12.17
+  origversion: null
+  status: newest
+  summary: Command-line tool to download videos from YouTube.com and other sites
+  maintainers:
+    - fpletz@fnordicwalking.de
+  licenses:
+    - Unlicense
+  categories:
+    - python314Packages
 - repo: openbsd
   srcname: www/youtube-dl
   binname: youtube-dl
@@ -1127,6 +1127,16 @@
     - Public Domain
   categories:
     - Applications/Multimedia
+- repo: spack
+  srcname: py-youtube-dl
+  visiblename: py-youtube-dl
+  version: 2021.12.17
+  origversion: null
+  status: newest
+  maintainers:
+    - fallback-mnt-spack@repology
+  licenses:
+    - Unlicense
 - repo: openmandriva_6_0
   subrepo: main/release
   srcname: youtube-dl
@@ -1199,6 +1209,15 @@
     - CC-BY-SA-3.0 AND SUSE-Public-Domain
   categories:
     - Productivity/Networking/Web/Utilities
+- repo: scoop
+  subrepo: main
+  binname: youtube-dl
+  visiblename: youtube-dl
+  version: 2021.12.17
+  origversion: null
+  status: newest
+  licenses:
+    - Unlicense
 - repo: opensuse_leap_15_6
   subrepo: main/oss
   srcname: python-youtube-dl
@@ -1240,8 +1259,8 @@
   srcname: youtube-dl-git
   binname: youtube-dl-git
   visiblename: youtube-dl-git
-  version: a0379b9e
-  origversion: a0379b9e-1
+  version: 237f968e
+  origversion: 237f968e-1
   status: rolling
   summary: Command-line program to download videos from YouTube.com and other video sites
   maintainers:
@@ -1390,15 +1409,6 @@
     - fallback-mnt-ravenports@repology
   categories:
     - www
-- repo: scoop
-  subrepo: main
-  binname: youtube-dl
-  visiblename: youtube-dl
-  version: 2021.12.17
-  origversion: null
-  status: newest
-  licenses:
-    - Unlicense
 - repo: slackbuilds
   srcname: network/youtube-dl
   visiblename: network/youtube-dl
@@ -1409,16 +1419,6 @@
     - dslackw@gmail.com
   categories:
     - network
-- repo: spack
-  srcname: py-youtube-dl
-  visiblename: py-youtube-dl
-  version: 2021.12.17
-  origversion: null
-  status: newest
-  maintainers:
-    - fallback-mnt-spack@repology
-  licenses:
-    - Unlicense
 - repo: ubuntu_14_04
   subrepo: trusty/universe
   srcname: youtube-dl
