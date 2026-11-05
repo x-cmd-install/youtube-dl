@@ -14,12 +14,12 @@ x install youtube-dl
 
 ## Code insight
 
-Total: **146,249** lines of code across **928** files in the top 5 languages.
+Total: **146,254** lines of code across **928** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Python | 145,418 | 5,200 | 18,174 | 903 |
-| Makefile | 246 | 10 | 56 | 2 |
+| Makefile | 251 | 10 | 56 | 2 |
 | ActionScript | 198 | 34 | 33 | 17 |
 | Sh | 156 | 23 | 46 | 4 |
 | Json | 76 | 0 | 0 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2021.12.17` (2021-12-16)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-04
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 141,448 · **Forks**: 10,677 · **Open issues**: 26,836 · **Contributors**: 796
+- **Stars**: 141,459 · **Forks**: 10,679 · **Open issues**: 26,836 · **Contributors**: 796
 
 ## Totals (cumulative)
 
-- **Releases**: 341 · **Merged PRs**: 1649 · **Open PRs**: 497 · **Closed issues**: 23216 · **Open issues**: 3620 · **Commits**: 18980
+- **Releases**: 341 · **Merged PRs**: 1650 · **Open PRs**: 497 · **Closed issues**: 23217 · **Open issues**: 3619 · **Commits**: 18981
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 2 | 0 | 3 | 1 | 3 |
-| last60d | 2026-09-05 | 0 | 2 | 1 | 5 | 2 | 3 |
-| 90d | 2026-08-06 | 0 | 2 | 1 | 7 | 3 | 3 |
-| last180d | 2026-05-08 | 0 | 3 | 7 | 11 | 7 | 3 |
-| 360d | 2025-11-09 | 0 | 4 | 16 | 39 | 13 | 7 |
-| last720d | 2024-11-14 | 0 | 12 | 31 | 195 | 34 | 119 |
+| 30d | 2026-10-06 | 0 | 3 | 0 | 3 | 1 | 4 |
+| last60d | 2026-09-06 | 0 | 3 | 1 | 5 | 2 | 4 |
+| 90d | 2026-08-07 | 0 | 3 | 1 | 7 | 3 | 4 |
+| last180d | 2026-05-09 | 0 | 4 | 7 | 11 | 7 | 4 |
+| 360d | 2025-11-10 | 0 | 5 | 16 | 39 | 13 | 8 |
+| last720d | 2024-11-15 | 0 | 13 | 31 | 195 | 34 | 120 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for youtube-dl lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:36:27Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:57:11Z._
