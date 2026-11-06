@@ -14,12 +14,12 @@ x install youtube-dl
 
 ## Code insight
 
-Total: **146,254** lines of code across **928** files in the top 5 languages.
+Total: **146,334** lines of code across **929** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 145,418 | 5,200 | 18,174 | 903 |
-| Makefile | 251 | 10 | 56 | 2 |
+| Python | 145,497 | 5,202 | 18,184 | 904 |
+| Makefile | 252 | 10 | 56 | 2 |
 | ActionScript | 198 | 34 | 33 | 17 |
 | Sh | 156 | 23 | 46 | 4 |
 | Json | 76 | 0 | 0 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `2021.12.17` (2021-12-16)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-06
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 141,459 · **Forks**: 10,679 · **Open issues**: 26,836 · **Contributors**: 796
+- **Stars**: 141,468 · **Forks**: 10,678 · **Open issues**: 26,835 · **Contributors**: 797
 
 ## Totals (cumulative)
 
-- **Releases**: 341 · **Merged PRs**: 1650 · **Open PRs**: 497 · **Closed issues**: 23217 · **Open issues**: 3619 · **Commits**: 18981
+- **Releases**: 341 · **Merged PRs**: 1652 · **Open PRs**: 496 · **Closed issues**: 23217 · **Open issues**: 3618 · **Commits**: 18983
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 3 | 0 | 3 | 1 | 4 |
-| last60d | 2026-09-06 | 0 | 3 | 1 | 5 | 2 | 4 |
-| 90d | 2026-08-07 | 0 | 3 | 1 | 7 | 3 | 4 |
-| last180d | 2026-05-09 | 0 | 4 | 7 | 11 | 7 | 4 |
-| 360d | 2025-11-10 | 0 | 5 | 16 | 39 | 13 | 8 |
-| last720d | 2024-11-15 | 0 | 13 | 31 | 195 | 34 | 120 |
+| 30d | 2026-10-07 | 0 | 4 | 0 | 3 | 1 | 7 |
+| last60d | 2026-09-07 | 0 | 4 | 1 | 5 | 2 | 7 |
+| 90d | 2026-08-08 | 0 | 4 | 1 | 7 | 3 | 7 |
+| last180d | 2026-05-10 | 0 | 5 | 7 | 11 | 7 | 7 |
+| 360d | 2025-11-11 | 0 | 7 | 15 | 39 | 13 | 11 |
+| last720d | 2024-11-16 | 0 | 15 | 30 | 195 | 34 | 122 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for youtube-dl lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:57:11Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:49:30Z._
