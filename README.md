@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 141,544 · **Forks**: 10,684 · **Open issues**: 26,832 · **Contributors**: 797
+- **Stars**: 141,550 · **Forks**: 10,685 · **Open issues**: 26,833 · **Contributors**: 797
 
 ## Totals (cumulative)
 
-- **Releases**: 341 · **Merged PRs**: 1652 · **Open PRs**: 497 · **Closed issues**: 23214 · **Open issues**: 3618 · **Commits**: 18983
+- **Releases**: 341 · **Merged PRs**: 1652 · **Open PRs**: 497 · **Closed issues**: 23215 · **Open issues**: 3618 · **Commits**: 18983
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 4 | 1 | 3 | 1 | 7 |
-| last60d | 2026-09-13 | 0 | 4 | 2 | 5 | 2 | 7 |
-| 90d | 2026-08-14 | 0 | 4 | 2 | 7 | 3 | 7 |
-| last180d | 2026-05-16 | 0 | 5 | 8 | 11 | 7 | 7 |
-| 360d | 2025-11-17 | 0 | 7 | 16 | 36 | 12 | 10 |
-| last720d | 2024-11-22 | 0 | 15 | 31 | 192 | 33 | 122 |
+| 30d | 2026-10-14 | 0 | 4 | 1 | 3 | 1 | 7 |
+| last60d | 2026-09-14 | 0 | 4 | 2 | 5 | 2 | 7 |
+| 90d | 2026-08-15 | 0 | 4 | 2 | 7 | 3 | 7 |
+| last180d | 2026-05-17 | 0 | 5 | 8 | 11 | 7 | 7 |
+| 360d | 2025-11-18 | 0 | 7 | 16 | 36 | 12 | 10 |
+| last720d | 2024-11-23 | 0 | 15 | 30 | 192 | 33 | 122 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for youtube-dl lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:50:35Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:15:26Z._
