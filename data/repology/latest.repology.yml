@@ -1,3 +1,13 @@
+- repo: pypi
+  srcname: youtube_dl
+  binname: youtube_dl
+  visiblename: youtube_dl
+  version: 2021.12.17
+  origversion: null
+  status: newest
+  summary: YouTube video downloader
+  maintainers:
+    - dstftw@gmail.com
 - repo: adelie_current
   subrepo: user
   srcname: youtube-dl
@@ -89,6 +99,18 @@
     - timo.teras@iki.fi
   licenses:
     - Unlicense
+- repo: nix_stable_24_11
+  srcname: youtube-dl
+  visiblename: youtube-dl
+  version: 2021.12.17
+  origversion: null
+  status: newest
+  summary: Command-line tool to download videos from YouTube.com and other sites
+  maintainers:
+    - mathijs@bluescreen303.nl
+    - fpletz@fnordicwalking.de
+  licenses:
+    - Public Domain
 - repo: alpine_3_17
   subrepo: community
   srcname: youtube-dl
@@ -238,6 +260,18 @@
     - tille@debian.org
   categories:
     - web
+- repo: nix_stable_24_11
+  srcname: youtube-dl-light
+  visiblename: youtube-dl
+  version: 2021.12.17
+  origversion: null
+  status: newest
+  summary: Command-line tool to download videos from YouTube.com and other sites
+  maintainers:
+    - mathijs@bluescreen303.nl
+    - fpletz@fnordicwalking.de
+  licenses:
+    - Public Domain
 - repo: debian_12
   subrepo: bookworm/main
   srcname: youtube-dl
@@ -250,19 +284,6 @@
   maintainers:
     - tille@debian.org
     - dilinger@debian.org
-  categories:
-    - web
-- repo: deepin_unstable
-  subrepo: main
-  srcname: youtube-dl
-  binnames:
-    - youtube-dl
-  visiblename: youtube-dl
-  version: 2019.01.17
-  origversion: 2019.01.17-1.2
-  status: outdated
-  maintainers:
-    - rbrito@ime.usp.br
   categories:
     - web
 - repo: deepin_23
@@ -420,20 +441,6 @@
   categories:
     - Unspecified
 - repo: fedora_41
-  subrepo: updates
-  srcname: youtube-dl
-  binnames:
-    - youtube-dl
-  visiblename: youtube-dl
-  version: 2025.05.04.gita084c80
-  origversion: 2025.05.04.gita084c80-1.fc41
-  status: ignored
-  summary: A small command-line program to download online videos
-  licenses:
-    - Unlicense
-  categories:
-    - Unspecified
-- repo: fedora_41
   subrepo: release
   srcname: youtube-dl
   binnames:
@@ -441,6 +448,20 @@
   visiblename: youtube-dl
   version: 2024.08.06.gitc509896
   origversion: 2024.08.06.gitc509896-1.fc41
+  status: ignored
+  summary: A small command-line program to download online videos
+  licenses:
+    - Unlicense
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: updates
+  srcname: youtube-dl
+  binnames:
+    - youtube-dl
+  visiblename: youtube-dl
+  version: 2025.05.04.gita084c80
+  origversion: 2025.05.04.gita084c80-1.fc41
   status: ignored
   summary: A small command-line program to download online videos
   licenses:
@@ -461,6 +482,20 @@
     - Unlicense
   categories:
     - Unspecified
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: youtube-dl
+  binnames:
+    - youtube-dl
+  visiblename: youtube-dl
+  version: 2021.12.17
+  origversion: 2021.12.17-2
+  status: newest
+  maintainers:
+    - tille@debian.org
+    - dilinger@debian.org
+  categories:
+    - web
 - repo: fedora_42
   subrepo: updates
   srcname: youtube-dl
@@ -475,20 +510,6 @@
     - Unlicense
   categories:
     - Unspecified
-- repo: nix_stable_24_05
-  srcname: python312Packages.youtube-dl
-  visiblename: python3.12-youtube-dl
-  version: 2021.12.17
-  origversion: null
-  status: newest
-  summary: Command-line tool to download videos from YouTube.com and other sites
-  maintainers:
-    - mathijs@bluescreen303.nl
-    - fpletz@fnordicwalking.de
-  licenses:
-    - Public Domain
-  categories:
-    - python312Packages
 - repo: fedora_43
   subrepo: release
   srcname: youtube-dl
@@ -634,18 +655,20 @@
     - tille@debian.org
   categories:
     - web
-- repo: openbsd
-  srcname: www/youtube-dl
-  binname: youtube-dl
-  visiblename: www/youtube-dl
+- repo: nix_stable_24_05
+  srcname: python312Packages.youtube-dl
+  visiblename: python3.12-youtube-dl
   version: 2021.12.17
-  origversion: 2021.12.17p5
+  origversion: null
   status: newest
-  summary: CLI program to download videos from YouTube and other sites
+  summary: Command-line tool to download videos from YouTube.com and other sites
   maintainers:
-    - ports@openbsd.org
+    - mathijs@bluescreen303.nl
+    - fpletz@fnordicwalking.de
+  licenses:
+    - Public Domain
   categories:
-    - www
+    - python312Packages
 - repo: nix_stable_24_05
   srcname: python312Packages.youtube-dl-light
   visiblename: python3.12-youtube-dl
@@ -726,6 +749,20 @@
     - Public Domain
   categories:
     - python312Packages
+- repo: raspbian_stable
+  subrepo: main
+  srcname: youtube-dl
+  binnames:
+    - youtube-dl
+  visiblename: youtube-dl
+  version: 2021.12.17
+  origversion: 2021.12.17-2
+  status: newest
+  maintainers:
+    - tille@debian.org
+    - dilinger@debian.org
+  categories:
+    - web
 - repo: nix_stable_24_11
   srcname: python312Packages.youtube-dl-light
   visiblename: python3.12-youtube-dl
@@ -740,30 +777,6 @@
     - Public Domain
   categories:
     - python312Packages
-- repo: nix_stable_24_11
-  srcname: youtube-dl
-  visiblename: youtube-dl
-  version: 2021.12.17
-  origversion: null
-  status: newest
-  summary: Command-line tool to download videos from YouTube.com and other sites
-  maintainers:
-    - mathijs@bluescreen303.nl
-    - fpletz@fnordicwalking.de
-  licenses:
-    - Public Domain
-- repo: nix_stable_24_11
-  srcname: youtube-dl-light
-  visiblename: youtube-dl
-  version: 2021.12.17
-  origversion: null
-  status: newest
-  summary: Command-line tool to download videos from YouTube.com and other sites
-  maintainers:
-    - mathijs@bluescreen303.nl
-    - fpletz@fnordicwalking.de
-  licenses:
-    - Public Domain
 - repo: nix_stable_24_11
   srcname: python311Packages.youtube-dl
   visiblename: python3.11-youtube-dl
@@ -815,32 +828,6 @@
   licenses:
     - Public Domain
 - repo: nix_stable_25_05
-  srcname: python313Packages.youtube-dl
-  visiblename: python3.13-youtube-dl
-  version: 2021.12.17
-  origversion: null
-  status: newest
-  summary: Command-line tool to download videos from YouTube.com and other sites
-  maintainers:
-    - fpletz@fnordicwalking.de
-  licenses:
-    - Public Domain
-  categories:
-    - python313Packages
-- repo: nix_stable_25_05
-  srcname: python313Packages.youtube-dl-light
-  visiblename: python3.13-youtube-dl
-  version: 2021.12.17
-  origversion: null
-  status: newest
-  summary: Command-line tool to download videos from YouTube.com and other sites
-  maintainers:
-    - fpletz@fnordicwalking.de
-  licenses:
-    - Public Domain
-  categories:
-    - python313Packages
-- repo: nix_stable_25_05
   srcname: python312Packages.youtube-dl
   visiblename: python3.12-youtube-dl
   version: 2021.12.17
@@ -866,6 +853,32 @@
     - Public Domain
   categories:
     - python312Packages
+- repo: nix_stable_25_05
+  srcname: python313Packages.youtube-dl
+  visiblename: python3.13-youtube-dl
+  version: 2021.12.17
+  origversion: null
+  status: newest
+  summary: Command-line tool to download videos from YouTube.com and other sites
+  maintainers:
+    - fpletz@fnordicwalking.de
+  licenses:
+    - Public Domain
+  categories:
+    - python313Packages
+- repo: nix_stable_25_05
+  srcname: python313Packages.youtube-dl-light
+  visiblename: python3.13-youtube-dl
+  version: 2021.12.17
+  origversion: null
+  status: newest
+  summary: Command-line tool to download videos from YouTube.com and other sites
+  maintainers:
+    - fpletz@fnordicwalking.de
+  licenses:
+    - Public Domain
+  categories:
+    - python313Packages
 - repo: nix_stable_25_11
   srcname: python312Packages.youtube-dl
   visiblename: python3.12-youtube-dl
@@ -930,6 +943,32 @@
 - repo: nix_stable_25_11
   srcname: python313Packages.youtube-dl-light
   visiblename: python3.13-youtube-dl
+  version: 2021.12.17
+  origversion: null
+  status: newest
+  summary: Command-line tool to download videos from YouTube.com and other sites
+  maintainers:
+    - fpletz@fnordicwalking.de
+  licenses:
+    - Unlicense
+  categories:
+    - python313Packages
+- repo: nix_stable_26_05
+  srcname: python313Packages.youtube-dl
+  visiblename: youtube-dl
+  version: 2021.12.17
+  origversion: null
+  status: newest
+  summary: Command-line tool to download videos from YouTube.com and other sites
+  maintainers:
+    - fpletz@fnordicwalking.de
+  licenses:
+    - Unlicense
+  categories:
+    - python313Packages
+- repo: nix_stable_26_05
+  srcname: python313Packages.youtube-dl-light
+  visiblename: youtube-dl
   version: 2021.12.17
   origversion: null
   status: newest
@@ -953,6 +992,20 @@
     - Unlicense
   categories:
     - python314Packages
+- repo: raspbian_testing
+  subrepo: main
+  srcname: youtube-dl
+  binnames:
+    - youtube-dl
+  visiblename: youtube-dl
+  version: 2021.12.17
+  origversion: 2021.12.17-2
+  status: newest
+  maintainers:
+    - tille@debian.org
+    - dilinger@debian.org
+  categories:
+    - web
 - repo: nix_stable_26_05
   srcname: python314Packages.youtube-dl-light
   visiblename: youtube-dl
@@ -966,32 +1019,6 @@
     - Unlicense
   categories:
     - python314Packages
-- repo: nix_stable_26_05
-  srcname: python313Packages.youtube-dl
-  visiblename: youtube-dl
-  version: 2021.12.17
-  origversion: null
-  status: newest
-  summary: Command-line tool to download videos from YouTube.com and other sites
-  maintainers:
-    - fpletz@fnordicwalking.de
-  licenses:
-    - Unlicense
-  categories:
-    - python313Packages
-- repo: nix_stable_26_05
-  srcname: python313Packages.youtube-dl-light
-  visiblename: youtube-dl
-  version: 2021.12.17
-  origversion: null
-  status: newest
-  summary: Command-line tool to download videos from YouTube.com and other sites
-  maintainers:
-    - fpletz@fnordicwalking.de
-  licenses:
-    - Unlicense
-  categories:
-    - python313Packages
 - repo: nix_stable_26_05
   srcname: youtube-dl
   visiblename: youtube-dl
@@ -1014,6 +1041,18 @@
     - fpletz@fnordicwalking.de
   licenses:
     - Unlicense
+- repo: openbsd
+  srcname: www/youtube-dl
+  binname: youtube-dl
+  visiblename: www/youtube-dl
+  version: 2021.12.17
+  origversion: 2021.12.17p5
+  status: newest
+  summary: CLI program to download videos from YouTube and other sites
+  maintainers:
+    - ports@openbsd.org
+  categories:
+    - www
 - repo: openindiana
   subrepo: hipster
   srcname: youtube_dl
@@ -1240,58 +1279,6 @@
     - tille@debian.org
   categories:
     - web
-- repo: pypi
-  srcname: youtube_dl
-  binname: youtube_dl
-  visiblename: youtube_dl
-  version: 2021.12.17
-  origversion: null
-  status: newest
-  summary: YouTube video downloader
-  maintainers:
-    - dstftw@gmail.com
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: youtube-dl
-  binnames:
-    - youtube-dl
-  visiblename: youtube-dl
-  version: 2021.12.17
-  origversion: 2021.12.17-2
-  status: newest
-  maintainers:
-    - tille@debian.org
-    - dilinger@debian.org
-  categories:
-    - web
-- repo: raspbian_stable
-  subrepo: main
-  srcname: youtube-dl
-  binnames:
-    - youtube-dl
-  visiblename: youtube-dl
-  version: 2021.12.17
-  origversion: 2021.12.17-2
-  status: newest
-  maintainers:
-    - tille@debian.org
-    - dilinger@debian.org
-  categories:
-    - web
-- repo: raspbian_testing
-  subrepo: main
-  srcname: youtube-dl
-  binnames:
-    - youtube-dl
-  visiblename: youtube-dl
-  version: 2021.12.17
-  origversion: 2021.12.17-2
-  status: newest
-  maintainers:
-    - tille@debian.org
-    - dilinger@debian.org
-  categories:
-    - web
 - repo: ravenports
   srcname: youtube-dl
   binname: youtube-dl
@@ -1360,19 +1347,6 @@
   categories:
     - universe/web
 - repo: ubuntu_18_04
-  subrepo: bionic-updates/universe
-  srcname: youtube-dl
-  binnames:
-    - youtube-dl
-  visiblename: youtube-dl
-  version: 2018.03.14
-  origversion: 2018.03.14-1ubuntu18.04.1
-  status: outdated
-  maintainers:
-    - rbrito@ime.usp.br
-  categories:
-    - universe/web
-- repo: ubuntu_18_04
   subrepo: bionic/universe
   srcname: youtube-dl
   binnames:
@@ -1380,6 +1354,19 @@
   visiblename: youtube-dl
   version: 2018.03.14
   origversion: 2018.03.14-1
+  status: outdated
+  maintainers:
+    - rbrito@ime.usp.br
+  categories:
+    - universe/web
+- repo: ubuntu_18_04
+  subrepo: bionic-updates/universe
+  srcname: youtube-dl
+  binnames:
+    - youtube-dl
+  visiblename: youtube-dl
+  version: 2018.03.14
+  origversion: 2018.03.14-1ubuntu18.04.1
   status: outdated
   maintainers:
     - rbrito@ime.usp.br
