@@ -48,22 +48,22 @@ x install youtube-dl
 
 ## 流行度
 
-- **Star**: 141,648 · **Fork**: 10,673 · **开放 issue**: 26,831 · **贡献者**: 797
+- **Star**: 141,650 · **Fork**: 10,676 · **开放 issue**: 26,831 · **贡献者**: 797
 
 ## 累计统计
 
-- **发布数**: 341 · **已合并 PR**: 1652 · **开放 PR**: 496 · **已关闭 issue**: 23212 · **开放 issue**: 3619 · **提交数**: 18983
+- **发布数**: 341 · **已合并 PR**: 1652 · **开放 PR**: 496 · **已关闭 issue**: 23213 · **开放 issue**: 3618 · **提交数**: 18983
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 4 | 3 | 1 | 1 | 7 |
-| last60d | 2026-09-25 | 0 | 4 | 3 | 5 | 3 | 7 |
-| 90d | 2026-08-26 | 0 | 4 | 4 | 6 | 3 | 7 |
-| last180d | 2026-05-28 | 0 | 5 | 10 | 9 | 8 | 7 |
-| 360d | 2025-11-29 | 0 | 6 | 18 | 31 | 13 | 7 |
-| last720d | 2024-12-04 | 0 | 15 | 32 | 188 | 33 | 122 |
+| 30d | 2026-10-26 | 0 | 3 | 3 | 2 | 0 | 7 |
+| last60d | 2026-09-26 | 0 | 4 | 3 | 5 | 2 | 7 |
+| 90d | 2026-08-27 | 0 | 4 | 4 | 7 | 2 | 7 |
+| last180d | 2026-05-29 | 0 | 5 | 10 | 10 | 7 | 7 |
+| 360d | 2025-11-30 | 0 | 6 | 18 | 31 | 12 | 7 |
+| last720d | 2024-12-05 | 0 | 15 | 32 | 189 | 31 | 122 |
 
 ## Release 资产
 
@@ -80,14 +80,6 @@ x install youtube-dl
 | [youtube-dl.exe.sig](https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.exe.sig) | 566 B | `other` |
 | [youtube-dl.sig](https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.sig) | 566 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/youtube-dl) 上共有 **110** 个发行版报告此项目。**61** 个 ✅ 已是最新上游版本，**21** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Fedora rawhide | `2025.05.04.gita084c80` | ignored |
-
 ## 改进这些数据
 
 youtube-dl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `youtube-dl` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -97,4 +89,4 @@ youtube-dl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T11:46:39Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T09:32:48Z._
