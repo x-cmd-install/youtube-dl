@@ -48,7 +48,7 @@ x install youtube-dl
 
 ## 流行度
 
-- **Star**: 141,668 · **Fork**: 10,676 · **开放 issue**: 26,831 · **贡献者**: 797
+- **Star**: 141,676 · **Fork**: 10,678 · **开放 issue**: 26,831 · **贡献者**: 797
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install youtube-dl
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 3 | 3 | 2 | 0 | 7 |
-| last60d | 2026-09-28 | 0 | 4 | 3 | 4 | 2 | 7 |
-| 90d | 2026-08-29 | 0 | 4 | 4 | 7 | 2 | 7 |
-| last180d | 2026-05-31 | 0 | 5 | 10 | 10 | 7 | 7 |
-| 360d | 2025-12-02 | 0 | 6 | 18 | 29 | 12 | 7 |
-| last720d | 2024-12-07 | 0 | 14 | 31 | 188 | 31 | 122 |
+| 30d | 2026-10-29 | 0 | 3 | 4 | 2 | 0 | 7 |
+| last60d | 2026-09-29 | 0 | 4 | 4 | 4 | 2 | 7 |
+| 90d | 2026-08-30 | 0 | 4 | 5 | 7 | 2 | 7 |
+| last180d | 2026-06-01 | 0 | 5 | 11 | 10 | 7 | 7 |
+| 360d | 2025-12-03 | 0 | 6 | 19 | 28 | 12 | 7 |
+| last720d | 2024-12-08 | 0 | 14 | 32 | 187 | 31 | 122 |
 
 ## Release 资产
 
@@ -80,6 +80,14 @@ x install youtube-dl
 | [youtube-dl.exe.sig](https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.exe.sig) | 566 B | `other` |
 | [youtube-dl.sig](https://github.com/ytdl-org/youtube-dl/releases/download/2021.12.17/youtube-dl.sig) | 566 B | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/youtube-dl) 上共有 **109** 个发行版报告此项目。**61** 个 ✅ 已是最新上游版本，**20** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Fedora rawhide | `2025.05.04.gita084c80` | ignored |
+
 ## 改进这些数据
 
 youtube-dl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `youtube-dl` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -89,4 +97,4 @@ youtube-dl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T09:50:51Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T09:19:21Z._
